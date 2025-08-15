@@ -2,6 +2,49 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Tech Stacks Used :
+
+ReactJS
+HTML
+TailwindCSS
+npm packages
+
+# Functionalities Implemented : 
+
+AGENT PAGE ------->
+Purpose:
+Acts as the main information and interaction hub for entrepreneurs/startups.
+It’s designed to give quick insights about the incubation center and allow users to interact with an AI/chatbot for more details.
+
+Key Functionality:
+Header & Branding – Shows the platform’s name and tagline so users know where they are.
+Startup Stats Section – Displays real-time metrics like:
+    Number of startups supported
+    Funding raised
+    Jobs created
+Information Card – Brief description of the incubation center’s goals and programs, with a link to learn more.
+AI Assistant Chat Panel –
+    Users can type questions and get responses from an AI assistant.
+    Can be extended to pull answers from a knowledge base.
+Navigation to Dashboard – Quick button to switch to the dashboard view for analytics and deeper data.
+
+DASHBOARD ------->
+Purpose:
+Gives administrators or team members a full overview of the system’s performance, credit usage, and analytics.
+
+Key Functionality:
+Sidebar Navigation – Links to different sections: Conversations, Credit Usage, Analytics, Tool Connections, Knowledge Base.
+Conversations Table –
+    Lists all recent conversations (with User ID, agent name, date/time, and link to view transcript).
+Credit Usage Cards – Tracks available usage for:
+    AI credits (total vs used)
+    STT (speech-to-text minutes)
+    TTS (text-to-speech characters)
+Analytics Cards – Displays:
+    Total conversations handled
+    Slides or assets shown during conversations
+Return Navigation – Button to go back to the Agent Page.
+
 ## Available Scripts
 
 In the project directory, you can run:
