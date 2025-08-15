@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Tech Stacks Used :
 
 ReactJS
-HTML
-TailwindCSS
-npm packages
+,HTML
+,TailwindCSS
+,npm packages
 
 # Functionalities Implemented : 
 
